@@ -1,6 +1,6 @@
 
 include config.mk
-include src.mk
+include src/src.mk
 
 PROGRAM = 
 
